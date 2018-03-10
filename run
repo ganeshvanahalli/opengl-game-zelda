@@ -1,0 +1,7 @@
+cd -
+cd build
+cmake ..
+make
+./graphics_asgn1
+cd -
+cd src

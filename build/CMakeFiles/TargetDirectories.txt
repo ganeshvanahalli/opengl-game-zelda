@@ -1,0 +1,3 @@
+/Users/ganeshvanahalli/sem4/graphics/assignments/ass-2/20161198_Assignment2/build/CMakeFiles/rebuild_cache.dir
+/Users/ganeshvanahalli/sem4/graphics/assignments/ass-2/20161198_Assignment2/build/CMakeFiles/edit_cache.dir
+/Users/ganeshvanahalli/sem4/graphics/assignments/ass-2/20161198_Assignment2/build/CMakeFiles/graphics_asgn1.dir
